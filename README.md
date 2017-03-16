@@ -17,7 +17,7 @@ A website application by react
 ## steps
 
 ### clone project
-    git clone https://github.com/maybeShuo/netease-music-react.git
+    git clone https://github.com/CodingMeUp/neteaseCloud.git
     cd netease-music-react
 
 ### npm install
