@@ -8,9 +8,9 @@ var server = new WebpackDevServer(webpack(config), {
     proxy: config.devServer.proxy,
     // hot: true,
     // historyApiFallback: true,
-}).listen(8080, 'localhost', function (err) {
+}).listen(8999, 'localhost', function (err) {
     if (err) {
         console.log(err);
     }
-    console.log('Listening at localhost:8080');
+    console.log('Listening at localhost:8999');
 });

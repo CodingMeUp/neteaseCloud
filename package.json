@@ -1,5 +1,5 @@
 {
-  "name": "netease-music-react",
+  "name": "neteaseCloud",
   "version": "1.0.0",
   "description": "A website application by react",
   "main": "index.js",
@@ -8,20 +8,12 @@
     "build": "set BABEL_ENV=production && webpack --config webpack.config.pro.js --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/maybeShuo/netease-music-react.git"
-  },
   "keywords": [
     "es6",
     "react"
   ],
-  "author": "Chen Shuo",
+  "author": "",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/maybeShuo/netease-music-react/issues"
-  },
-  "homepage": "https://github.com/maybeShuo/netease-music-react#readme",
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-loader": "^6.2.5",
